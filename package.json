@@ -1,9 +1,10 @@
 {
-  "name": "Gonta",
+  "name": "gonta",
   "description": "Wordbook Application",
   "version": "1.0.0",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "watch": "webpack --watch --mode development"
   },
   "dependencies": {
     "webpack": "^5.13.0",
