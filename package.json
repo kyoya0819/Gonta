@@ -1,7 +1,7 @@
 {
   "name": "Gonta",
   "description": "Wordbook Application",
-  "version": "1.0",
+  "version": "1.0.0",
   "scripts": {
     "build": "webpack --mode production"
   },
